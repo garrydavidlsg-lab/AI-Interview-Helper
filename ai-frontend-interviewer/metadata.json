@@ -1,0 +1,7 @@
+{
+  "name": "AI Frontend Interviewer",
+  "description": "An AI-powered interview simulator that uses your resume to ask you relevant frontend developer questions. It uses voice input and provides audio responses for a realistic conversational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
